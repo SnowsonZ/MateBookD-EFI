@@ -1141,7 +1141,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02919100J9N9PRA8</string>
+			<string>C02851401CDJH4RJA</string>
 			<key>ProcessorType</key>
 			<integer>1793</integer>
 			<key>SystemMemoryStatus</key>
@@ -1151,11 +1151,11 @@
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>MacBookPro16,1</string>
+			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02YP0VGMD6N</string>
+			<string>C02XVJYRJHCC</string>
 			<key>SystemUUID</key>
-			<string>4A1FD452-3007-449C-8200-68D014BC1E68</string>
+			<string>4493473B-78D7-4DB4-975D-6A73B2A5F3EE</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
