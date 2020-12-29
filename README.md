@@ -20,7 +20,20 @@
 
 
 
+### BIOS修改
 
+机器采用系微(insyde)bios，使用常规的setup_var修改失败。H2O VUE系列工具(H2OUVE-W-GUIx64.exe,   解压InsydeH2OUVE.zip)可成功修改，全程可在PE下进行。工具使用教程请自行搜索
+
+|          | 偏移量 | 修改值                  | BIOS修改节点 |
+| :------- | :----- | :---------------------- | ------------ |
+| CFG Lock | 0x3C   | 0X0: 关闭     0x1: 打开 | cpusetup     |
+| DVMT     | 0XDF   | 0x2: 64M                | sasetup      |
+
+
+
+*cfg lock关闭后可启用原生电源管理。ps: 目前没感觉出来差别*
+
+*dvmt调整至64M及以上，以支持外接4K及以上显示器。不过因为设备只有HDMI 1.4的接口，最高只支持到4K@30hz,而且DVMT最大只能修改到64M*
 
 
 
