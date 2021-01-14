@@ -2,7 +2,7 @@
 
 #### 支持big sur 11.0.1(20B29) OTA升级及全新安装
 
-#### OpenCore Version: 0.6.3
+#### OpenCore Version: 0.6.4
 
 #### 问题
 
