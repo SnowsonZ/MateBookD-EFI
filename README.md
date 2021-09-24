@@ -1,4 +1,10 @@
-### 华为MateBook D2018款黑苹果EFI
+## 华为MateBook D2018款黑苹果EFI
+
+### 2021.9.24
+  openCore升级到0.7.3 release
+  kext驱动更新
+
+### older
 
 #### 支持big sur 11.0.1(20B29) OTA升级及全新安装
 
