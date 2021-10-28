@@ -1,5 +1,14 @@
 ## 华为MateBook D2018款黑苹果EFI
 
+
+### 2021.10.27
+##### 支持OTA 11.6.1 -> 12.0.1
+##### openCore 升级到0.7.4 release
+##### 蓝牙驱动按照 https://github.com/OpenIntelWireless/IntelBluetoothFirmware/issues/347 做了修改，成功驱动，支持4.x设备(只测试了鼠标)。
+##### 已知问题
+1. 蓝牙信号不太稳定
+2. 手动关闭蓝牙开关后无法打开，需重启
+
 ### 2021.10.7
 ##### 支持OTA 11.1 -> 11.6.1
 
